@@ -50,7 +50,7 @@ namespace DinosaurQuiz
 
                 MessageBox.Show(
                     "Quiz Complete!" + Environment.NewLine +
-                    "You have answered" + score + " questions correctly" + Environment.NewLine +
+                    "You have answered " + score + " questions correctly" + Environment.NewLine +
                     "Your total percentage is " + percentage + "%" + Environment.NewLine +
                     "Click Ok to play again"
                     );
