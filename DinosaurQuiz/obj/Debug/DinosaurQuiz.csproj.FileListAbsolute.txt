@@ -1,0 +1,11 @@
+C:\Users\17144\Desktop\repos\DinosaurQuiz\DinosaurQuiz\bin\Debug\DinosaurQuiz.exe.config
+C:\Users\17144\Desktop\repos\DinosaurQuiz\DinosaurQuiz\bin\Debug\DinosaurQuiz.exe
+C:\Users\17144\Desktop\repos\DinosaurQuiz\DinosaurQuiz\bin\Debug\DinosaurQuiz.pdb
+C:\Users\17144\Desktop\repos\DinosaurQuiz\DinosaurQuiz\obj\Debug\DinosaurQuiz.csproj.AssemblyReference.cache
+C:\Users\17144\Desktop\repos\DinosaurQuiz\DinosaurQuiz\obj\Debug\DinosaurQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\17144\Desktop\repos\DinosaurQuiz\DinosaurQuiz\obj\Debug\DinosaurQuiz.Properties.Resources.resources
+C:\Users\17144\Desktop\repos\DinosaurQuiz\DinosaurQuiz\obj\Debug\DinosaurQuiz.csproj.GenerateResource.cache
+C:\Users\17144\Desktop\repos\DinosaurQuiz\DinosaurQuiz\obj\Debug\DinosaurQuiz.csproj.CoreCompileInputs.cache
+C:\Users\17144\Desktop\repos\DinosaurQuiz\DinosaurQuiz\obj\Debug\DinosaurQuiz.exe
+C:\Users\17144\Desktop\repos\DinosaurQuiz\DinosaurQuiz\obj\Debug\DinosaurQuiz.pdb
+C:\Users\17144\Desktop\repos\DinosaurQuiz\DinosaurQuiz\obj\Debug\DinosaurQuiz.SimpleDinoQuiz.resources
