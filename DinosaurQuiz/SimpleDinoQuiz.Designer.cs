@@ -49,7 +49,7 @@
             // 
             // lblQuestion
             // 
-            this.lblQuestion.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.1F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblQuestion.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.900001F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblQuestion.Location = new System.Drawing.Point(79, 565);
             this.lblQuestion.Name = "lblQuestion";
             this.lblQuestion.Size = new System.Drawing.Size(1328, 111);
@@ -60,7 +60,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(122, 651);
+            this.button1.Location = new System.Drawing.Point(122, 679);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(514, 114);
             this.button1.TabIndex = 2;
@@ -71,7 +71,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(902, 665);
+            this.button2.Location = new System.Drawing.Point(902, 682);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(505, 109);
             this.button2.TabIndex = 3;
@@ -82,7 +82,7 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(122, 797);
+            this.button3.Location = new System.Drawing.Point(122, 829);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(514, 108);
             this.button3.TabIndex = 4;
@@ -93,7 +93,7 @@
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(893, 797);
+            this.button4.Location = new System.Drawing.Point(893, 820);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(514, 107);
             this.button4.TabIndex = 5;
@@ -102,7 +102,7 @@
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.checkAnswerEvent);
             // 
-            // Form1
+            // SimpleDinoQuiz
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -113,7 +113,7 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.lblQuestion);
             this.Controls.Add(this.pictureBox1);
-            this.Name = "Form1";
+            this.Name = "SimpleDinoQuiz";
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
